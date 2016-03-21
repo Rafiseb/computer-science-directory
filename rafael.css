@@ -1,4 +1,10 @@
  h1 {
     text-align: center;
-  color: blue;
+    color: blue;
+}
+
+
+body{
+background-image: url("http://imgur.com/YoBdMFz");
+background-size: 200px;
 }
